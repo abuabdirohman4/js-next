@@ -1,1 +1,1 @@
-# js-next
+# Next JS
