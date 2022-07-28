@@ -1,6 +1,8 @@
 [submodule "next-basic"]
 	path = next-basic
 	url = git@github.com:abuabdirohman4/next-basic.git
+	branch = main
 [submodule "next-portfolio"]
 	path = next-portfolio
 	url = git@github.com:abuabdirohman4/next-portfolio.git
+	branch = develop
