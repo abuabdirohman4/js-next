@@ -6,3 +6,6 @@
 	path = next-portfolio
 	url = git@github.com:abuabdirohman4/next-portfolio.git
 	branch = develop
+[submodule "next-startup-law"]
+	path = next-startup-law
+	url = git@github.com:abuabdirohman4/next-startup-law.git
